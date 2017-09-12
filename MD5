@@ -1,0 +1,11 @@
+814f7f01ccddc6ed8fb64922e0254d73 *DESCRIPTION
+d9f8140cbabbacb11e1f478126e7b675 *NAMESPACE
+e4a15835082249262bc3b40d5821df5e *R/DCD.R
+791ab1cd89c7aa1ca69681000576daa7 *R/differential_community_analysis.R
+ebf805aac04931e9fb26606472a0eda6 *build/partial.rdb
+0c773fb98e23e9c7d874f1ed7a0891df *inst/REFERENCES.bib
+9e86addf5c34263b5cdbaca522e94ba7 *man/DCD.Rd
+87a93f249bd32f38c69324ad580f9409 *man/calculate_jaccard.Rd
+67dc469765c72aca2e6d1ceb976187eb *man/get_ordered_community_output.Rd
+d66274cce9b8a4f1f829dd44a8d82f00 *man/order_topological_matrix.Rd
+d1f37ca365ac1ee04a13921a9aed639b *man/prune_edges.Rd
